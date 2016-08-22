@@ -1,0 +1,31 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Todorov",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babelify": "^7.3.0",
+    "body-parser": "^1.15.2",
+    "browser-sync": "^2.14.0",
+    "browserify": "^13.1.0",
+    "cors": "^2.7.1",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "jquery": "^3.1.0",
+    "mongoose": "^4.5.9",
+    "node-jsx": "^0.13.3",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

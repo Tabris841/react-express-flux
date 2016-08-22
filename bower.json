@@ -1,0 +1,23 @@
+{
+  "name": "react-express",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Anton Todorov"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.1",
+    "es6-shim": "^0.35.1",
+    "jquery": "^3.1.0",
+    "skeleton": "^2.0.4"
+  }
+}
